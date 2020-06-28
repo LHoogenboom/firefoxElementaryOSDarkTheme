@@ -1,5 +1,5 @@
 # firefoxElementaryOSDarkTheme
-Firefox Dark theme based on Elementary os native colours
+Firefox Dark theme based on Elementary OS native colours
 
 ![](documentation/version1.0/Version%201.0.png)
 
